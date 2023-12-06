@@ -1,0 +1,3 @@
+Welcome to this game!;Tervetuloa tajunnan räjäyttävän tietovisailupelin pariin! On jo yksi ihme, että olet tänne löytänyt.
+Now that you are here, choose long game you want to play.;Nyt kun olet täällä, valitse kuinka pitkän pelin haluat pelata.
+Your choice (from 1 to 10);Valintasi (välillä 1-10)
