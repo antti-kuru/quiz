@@ -3,6 +3,7 @@
 
 https://github.com/antti-kuru/quiz/assets/128390200/ce66ed47-89e0-4b7c-ae22-d391cfe23576
 
+Sorry for the multiple second delay at the start of the video, I have no clue why it happens
 
 This is my very first very project I made after the course of introduction to programming on dec 2022. The project is a hockey quiz where the user can select whether he wants to play the game in English or in Finnish and then decice how many questions about hockey will be asked. The application has basic error handling for wrong inputs and it won't crash down. This project strenghtened my skills on Python.
 
